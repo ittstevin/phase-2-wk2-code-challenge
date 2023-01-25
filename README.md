@@ -1,1 +1,38 @@
-# phase-2-wk2-code-challenge
+# React-code-challenge-2
+# Bot Battle
+
+# Description
+
+The program is about a bot fighting game in which players control robots or "bots" to battle against each other in an arena. The bots have various abilities and weapons, and players must use strategy and quick reflexes to defeat their opponents.The game can have different types of game modes such as 1v1, team deathmatch, capture the flag and so on. The game typically features a variety of different bots to choose from, each with their own strengths and weaknesses. It is a fast-paced and action-packed game that requires skill and strategy to master.
+
+# Getting Started
+
+If you haven't already, fork and clone this lesson into your local environment.
+
+# alternative 1
+Use the netlify link provided below to run the program
+
+     
+# Quick Review to clone the program into your local environment
+
+Navigate to https://github.com/ittstevin/phase-2-wk2-code-challenge
+Once you are in my Github repo, choose SSH and copy the provided git URL info.
+navigate to the folder you want to clone the program
+Clone to your local machine with git clone followed by the git URL you copied. This will create a folder in the location you're currently in containing the program's files.
+
+cd into [phase-2-wk2-code-challenge]
+
+# How to start the Program
+
+Open Visual Studio Code or any other code text editor you have available with you
+Open the terminal and make sure that you are in the program's folder
+Run npx json-server --watch db.json first.
+After,the db.json has already been tracked run npm run start to start the program.
+
+# Authors
+
+This project was contributed to by: [Tevin Munene]
+
+# License
+
+The project is licensed under ISC
