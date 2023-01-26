@@ -1,25 +1,73 @@
 body {
   margin: 0;
-  padding: 0;
-  font-family: sans-serif;
-  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: ;
 }
 
-.text-wrap {
-  word-wrap: break-word;
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
 }
 
-.bot-army {
-  overflow-x: scroll;
-  min-height: 300px;
-  max-width: 100%;
+.card {
+  
+  margin: 10px;
+  width: 18rem;
+  display: flex;
+  flex-wrap: wrap;
 }
 
-.ui.grid > .row.bot-army-row {
-  flex-wrap: nowrap;
-  min-height: 100%;
+.card-body button{
+margin-top: 2rem;
+}
+h6 {
+  font-size: 10.5px;
+}
+.yourBot{
+
+  color: brown;
+}
+.ac{
+  margin-top: 200px;
 }
 
-.ui.grid {
-  padding: 0px 20px;
+.navbtn{
+ background-color: orange; 
+}
+/* .botName{
+
+} */
+.damage{
+  display: "flex";
+  color:crimson;
+  font-size: 25px;
+}
+.Health{
+  color: blue;
+  font-size: 25px;
+}
+p {
+  display: flex;
+  flex-wrap: wrap;
+}
+.Armor{
+  font-size: 25px;
+}
+.Class{
+  font-size: 20px;
+}
+h5{
+  text-align: center;
+  font-size: 25px;
+  color: coral;
+}
+.del{
+  width: 250px;
+}
+.select{
+  
 }
